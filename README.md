@@ -18,7 +18,7 @@ This project aims to extract articles from Genome Biology for a specific year an
 
 ## Project Structure
 
-- `web_scraping.R`: R script for web scraping and data extraction.
+- `enome_biologyfinal.R`: R script for web scraping and data extraction.
 - `data/`: Folder to store the extracted data.
 
 ## Dependencies
